@@ -1,5 +1,12 @@
 #include <stdio.h>
-
+/**
+ *
+ * @param list
+ * @param item
+ * @param low
+ * @param high
+ * @return
+ */
 int binary_search(int list[], int item, int low, int high);
 
 int main() {
